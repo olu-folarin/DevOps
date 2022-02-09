@@ -1,6 +1,6 @@
 # excluded files
-*terraform.tfstate
-*terraform.tfstate.backup
+*.terraform.tfstate
+*.terraform.tfstate.backup
 
 # excluded folder
 .terraform
