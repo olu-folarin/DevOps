@@ -2,5 +2,5 @@
 *.terraform.tfstate
 *.terraform.tfstate.backup
 
-# excluded folder
+# exclude the terraform folder
 .terraform
