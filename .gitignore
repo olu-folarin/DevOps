@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # excluded files
 .terraform.tfstate
 .terraform.tfstate.backup
 
 # exclude the terraform folder
 *terraform
+=======
+*.tfstate
+*.tfstate.backup
+.terraform
+>>>>>>> ed3923d (a recap of basic terraform resources)
